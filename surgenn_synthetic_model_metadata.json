@@ -1,0 +1,1 @@
+{"sequence_length": 24, "feature_columns": ["wind_u", "wind_v", "pressure", "temperature", "wind_speed", "wind_direction", "hour", "day_of_year"], "is_trained": true}
